@@ -25,7 +25,7 @@
        
   **3. Research Questions**
       
-        The 100 questions are categorized into five sections:
+        The 50 questions are categorized into five sections:
 
         General Population Trends (20 questions)
         Continent-Based Analysis (10 questions)
