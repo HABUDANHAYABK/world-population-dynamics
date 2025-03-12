@@ -4,7 +4,7 @@
     
      Project Title: World Population Dynamics
   
-     Objective: This project explores global population trends by analyzing a Kaggle dataset and answering 100 key questions through data manipulation and visualization
+     Objective: This project explores global population trends by analyzing a Kaggle dataset and answering 50 key questions through data manipulation and visualization
       
   **2. Dataset**
      
@@ -28,10 +28,10 @@
         The 100 questions are categorized into five sections:
 
         General Population Trends (20 questions)
-        Continent-Based Analysis (20 questions)
-        Country Comparisons (20 questions)
-        Time-Based Analysis (20 questions)
-        Advanced Insights & Visualizations (20 questions)
+        Continent-Based Analysis (10 questions)
+        Country Comparisons (5 questions)
+        Time-Based Analysis (10 questions)
+        Advanced Insights & Visualizations (5 questions)
         Each question will be answered using data manipulation and visualization techniques.
     
   **4. Methodology**
@@ -52,13 +52,13 @@
 |-------------------------------- |-----------|----------|
 | Set up GitHub repository        | Day 1     | ✅ Done   |
 | Upload dataset                  | Day 1     | ✅ Done   |
-| Data exploration (notebook 1)   | Day 2–3   | 🔲 Pending |
-| Data cleaning (notebook 2)      | Day 4–5   | 🔲 Pending |
-| Answer 50 questions (part 1)    | Day 6–10  | 🔲 Pending |
-| Answer 50 questions (part 2)    | Day 11–15 | 🔲 Pending |
-| Visualizations                  | Day 16–18 | 🔲 Pending |
-| Documentation (README.md)       | Day 19    | 🔲 Pending |
-| Final review & push to GitHub   | Day 20    | 🔲 Pending |
+| Data exploration (notebook 1)   | Day 1     | ✅ Done   |
+| Data cleaning (notebook 2)      | Day 1     | ✅ Done   |
+| Answer 25 questions (part 1)    | Day 2-4   | ✅ Done   |
+| Answer 25 questions (part 2)    | Day 5-6   | 🔲 Pending |
+| Visualizations                  | Day 7-8   | 🔲 Pending |
+| Documentation (README.md)       | Day 9     | 🔲 Pending |
+| Final review & push to GitHub   | Day 10    | 🔲 Pending |
 
 
 
