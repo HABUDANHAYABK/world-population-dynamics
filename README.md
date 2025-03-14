@@ -5,10 +5,12 @@
      Project Title: World Population Dynamics
   
      Objective: This project explores global population trends by analyzing a Kaggle dataset and answering 50 key questions through data manipulation and visualization
+
+ Aim: The aim of this project is to apply the data manipulation skills I gained from the *Data Manipulation with pandas Course* on DataCamp
       
   **2. Dataset**
      
-      Source:  [Kaggle World Population Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset)
+Source:  [Kaggle World Population Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset)
      
       Description: The dataset contains population data from 1970 to 2022 for various countries and territories.
      
