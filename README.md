@@ -30,8 +30,8 @@
         General Population Trends (20 questions)
         Continent-Based Analysis (10 questions)
         Country Comparisons (5 questions)
-        Time-Based Analysis (10 questions)
-        Advanced Insights & Visualizations (5 questions)
+        Time-Based Analysis (5 questions)
+        Advanced Insights & Visualizations (10 questions)
         Each question will be answered using data manipulation and visualization techniques.
     
   **4. Methodology**
